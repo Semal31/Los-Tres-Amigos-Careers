@@ -109,7 +109,7 @@
 }
 /************************  Noah  ************************************/
 .sim{
-    background-image: url("/Images/astronomy-backlit-constellation-1421903.jpg");
+    background-image: url("Images/astronomy-backlit-constellation-1421903.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
@@ -158,7 +158,7 @@
 /* Brendan */
 
 .brendanbody {
-    background-image: url("/Images/bamboo-bamboo-whisk-board-461428.jpg");
+    background-image: url("Images/bamboo-bamboo-whisk-board-461428.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
