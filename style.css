@@ -65,7 +65,7 @@
 }
 
 .mindex {
-    background-image: url("/Images/fpage.jpg");
+    background-image: url("Images/fpage.jpg");
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
